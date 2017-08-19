@@ -10,4 +10,6 @@ Instructions:
 4) Clone the git repository
 5) Usage:
    
+   pip install slacker 
+
    python slacker_downloader.py YOUR_TOKEN
